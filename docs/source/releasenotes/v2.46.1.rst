@@ -1,6 +1,6 @@
-Bumped to 2.46.1
+Bumped to 2.46.2
 
-boto v2.46.1
+boto v2.46.2
 ============
 
 :date: 2017/02/20
